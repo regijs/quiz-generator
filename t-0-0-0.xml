@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Padrão para 20202_1000000_DIG_MAT015_TF</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>A categoria padrão para as questões compartilhadas no contexto '20202_1000000_DIG_MAT015_TF'.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Padrão para 20202_1000000_DIG_MAT015_TF/Equações do 2o Grau</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-2,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2 x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-2\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=12. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=1\pm \sqrt{3}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=1 - \sqrt{3}\text{ e }x_2=1 + \sqrt{3}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=1 - \sqrt{3}\text{ e }x_2=1 + \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm \sqrt{3} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=1 - 2 \sqrt{3}\text{ e }x_2=1 + 2 \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-2,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2 x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-2\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=8. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=1\pm \sqrt{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=1 - \sqrt{2}\text{ e }x_2=1 + \sqrt{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=1 - \sqrt{2}\text{ e }x_2=1 + \sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=1 - 2 \sqrt{2}\text{ e }x_2=1 + 2 \sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-2,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2 x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-2\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=4. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=1\pm 1.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=0\text{ e }x_2=2.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=0\text{ e }x_2=2 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-1\text{ e }x_2=3 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-2,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2 x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-2\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=0. 
+ \]</p> 
+Como \(\Delta = 0\), esta equação tem somente uma raiz real:
+<p>\[ 
+x=-\frac{b}{2a}=1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x=1\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x=2\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x=4\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-2,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2 x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-2\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=1\pm 1\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm 1\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=2\pm 2 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-1,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-1\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=9. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{2}\pm \frac{3}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-1\text{ e }x_2=2.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-1\text{ e }x_2=2 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{3}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{5}{2}\text{ e }x_2=\frac{7}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-1,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-1\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=5. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{2}\pm \frac{\sqrt{5}}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=\frac{1}{2} - \frac{\sqrt{5}}{2}\text{ e }x_2=\frac{1}{2} + \frac{\sqrt{5}}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{2} - \frac{\sqrt{5}}{2}\text{ e }x_2=\frac{1}{2} + \frac{\sqrt{5}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{5}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{2} - \sqrt{5}\text{ e }x_2=\frac{1}{2} + \sqrt{5} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-1,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-1\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=1. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{2}\pm \frac{1}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=0\text{ e }x_2=1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=0\text{ e }x_2=1 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{1}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{1}{2}\text{ e }x_2=\frac{3}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-1,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-1\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-3. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\frac{1}{2}\pm \frac{\sqrt{3}}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{3}}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{3}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm \sqrt{3} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=-1,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=-1\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-7. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\frac{1}{2}\pm \frac{\sqrt{7}}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{7}}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{7}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm \sqrt{7} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=0,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=0\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=8. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\pm \sqrt{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \sqrt{2}\text{ e }x_2=\sqrt{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{2}\text{ e }x_2=\sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- 2 \sqrt{2}\text{ e }x_2=2 \sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=0,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=0\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=4. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\pm 1.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-1\text{ e }x_2=1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-1\text{ e }x_2=1 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-2\text{ e }x_2=2 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=0,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=0\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\pm 1\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm 1\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm 2 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=0,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=0\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-8. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\pm \sqrt{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \sqrt{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm 2 \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=1,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=1\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=9. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{2}\pm \frac{3}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-2\text{ e }x_2=1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-2\text{ e }x_2=1 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{3}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{7}{2}\text{ e }x_2=\frac{5}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=1,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=1\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=5. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{2}\pm \frac{\sqrt{5}}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{\sqrt{5}}{2} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \frac{\sqrt{5}}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{\sqrt{5}}{2} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \frac{\sqrt{5}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{5}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{5} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \sqrt{5} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=1,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=1\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=1. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{2}\pm \frac{1}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-1\text{ e }x_2=0.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-1\text{ e }x_2=0 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{1}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{3}{2}\text{ e }x_2=\frac{1}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=1,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=1\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-3. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=- \frac{1}{2}\pm \frac{\sqrt{3}}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{3}}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{3}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm \sqrt{3} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=1,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=1\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-7. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=- \frac{1}{2}\pm \frac{\sqrt{7}}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{7}}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{7}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm \sqrt{7} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=2,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2 x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=2\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=12. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=-1\pm \sqrt{3}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \sqrt{3} - 1\text{ e }x_2=-1 + \sqrt{3}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{3} - 1\text{ e }x_2=-1 + \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm \sqrt{3} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- 2 \sqrt{3} - 1\text{ e }x_2=-1 + 2 \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=2,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2 x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=2\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=8. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=-1\pm \sqrt{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \sqrt{2} - 1\text{ e }x_2=-1 + \sqrt{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{2} - 1\text{ e }x_2=-1 + \sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- 2 \sqrt{2} - 1\text{ e }x_2=-1 + 2 \sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=2,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2 x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=2\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=4. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=-1\pm 1.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-2\text{ e }x_2=0.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-2\text{ e }x_2=0 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-3\text{ e }x_2=1 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=2,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2 x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=2\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=0. 
+ \]</p> 
+Como \(\Delta = 0\), esta equação tem somente uma raiz real:
+<p>\[ 
+x=-\frac{b}{2a}=-1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x=-1\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x=-2\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x=-4\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=1,b=2,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ x^{2} + 2 x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=1\), \(b=2\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=-1\pm 1\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm 1\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-2\pm 2 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-2,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - 2 x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-2\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=12. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{2}\pm \frac{\sqrt{3}}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=\frac{1}{2} - \frac{\sqrt{3}}{2}\text{ e }x_2=\frac{1}{2} + \frac{\sqrt{3}}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{2} - \frac{\sqrt{3}}{2}\text{ e }x_2=\frac{1}{2} + \frac{\sqrt{3}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{3}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{2} - \sqrt{3}\text{ e }x_2=\frac{1}{2} + \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-2,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - 2 x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-2\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\frac{1}{2}\pm \frac{1}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{1}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{1}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-1,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-1\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=17. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{4}\pm \frac{\sqrt{17}}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=\frac{1}{4} - \frac{\sqrt{17}}{4}\text{ e }x_2=\frac{1}{4} + \frac{\sqrt{17}}{4}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{4} - \frac{\sqrt{17}}{4}\text{ e }x_2=\frac{1}{4} + \frac{\sqrt{17}}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{\sqrt{17}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=\frac{1}{4} - \frac{\sqrt{17}}{2}\text{ e }x_2=\frac{1}{4} + \frac{\sqrt{17}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-1,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-1\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=9. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{4}\pm \frac{3}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{1}{2}\text{ e }x_2=1.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{1}{2}\text{ e }x_2=1 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{3}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{5}{4}\text{ e }x_2=\frac{7}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-1,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-1\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=1. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\frac{1}{4}\pm \frac{1}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=0\text{ e }x_2=\frac{1}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=0\text{ e }x_2=\frac{1}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{1}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{1}{4}\text{ e }x_2=\frac{3}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-1,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-1\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-7. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\frac{1}{4}\pm \frac{\sqrt{7}}{4}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{\sqrt{7}}{4}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{\sqrt{7}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{7}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=-1,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=-1\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-15. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\frac{1}{4}\pm \frac{\sqrt{15}}{4}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{\sqrt{15}}{4}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{4}\pm \frac{\sqrt{15}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\frac{1}{2}\pm \frac{\sqrt{15}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=0,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=0\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=8. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=\pm \frac{\sqrt{2}}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{\sqrt{2}}{2}\text{ e }x_2=\frac{\sqrt{2}}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{\sqrt{2}}{2}\text{ e }x_2=\frac{\sqrt{2}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \frac{\sqrt{2}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{2}\text{ e }x_2=\sqrt{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=0,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=0\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-8. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=\pm \frac{\sqrt{2}}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \frac{\sqrt{2}}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \frac{\sqrt{2}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=\pm \sqrt{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=1,c=-2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + x - 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=1\) e \(c=-2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=17. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{4}\pm \frac{\sqrt{17}}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{\sqrt{17}}{4} - \frac{1}{4}\text{ e }x_2=- \frac{1}{4} + \frac{\sqrt{17}}{4}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{\sqrt{17}}{4} - \frac{1}{4}\text{ e }x_2=- \frac{1}{4} + \frac{\sqrt{17}}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{\sqrt{17}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{\sqrt{17}}{2} - \frac{1}{4}\text{ e }x_2=- \frac{1}{4} + \frac{\sqrt{17}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=1,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=1\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=9. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{4}\pm \frac{3}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=-1\text{ e }x_2=\frac{1}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=-1\text{ e }x_2=\frac{1}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{3}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{7}{4}\text{ e }x_2=\frac{5}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=1,c=0</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + x=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=1\) e \(c=0\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=1. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{4}\pm \frac{1}{4}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{1}{2}\text{ e }x_2=0.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{1}{2}\text{ e }x_2=0 \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{1}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{3}{4}\text{ e }x_2=\frac{1}{4} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=1,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=1\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-7. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=- \frac{1}{4}\pm \frac{\sqrt{7}}{4}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{\sqrt{7}}{4}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{\sqrt{7}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{7}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=1,c=2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + x + 2=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=1\) e \(c=2\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-15. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=- \frac{1}{4}\pm \frac{\sqrt{15}}{4}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{\sqrt{15}}{4}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{4}\pm \frac{\sqrt{15}}{4} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{15}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=2,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + 2 x - 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=2\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=12. 
+ \]</p> 
+<p>Como \(\Delta > 0\), esta equação tem duas raizes reais:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}=- \frac{1}{2}\pm \frac{\sqrt{3}}{2}.
+ \]</p> 
+<p>Ou seja,</p>
+<p>\[ 
+x_1=- \frac{\sqrt{3}}{2} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \frac{\sqrt{3}}{2}.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \frac{\sqrt{3}}{2} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \frac{\sqrt{3}}{2} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{\sqrt{3}}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_1=- \sqrt{3} - \frac{1}{2}\text{ e }x_2=- \frac{1}{2} + \sqrt{3} \)</p>
+]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=2,b=2,c=1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ 2 x^{2} + 2 x + 1=0. 
+\]</p> 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=2\), \(b=2\) e \(c=1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4. 
+ \]</p> 
+<p>Como \(\Delta < 0\), esta equação tem duas raizes complexas:</p>
+<p>\[ 
+x_{1,2}=-\frac{b}{2a}\pm\frac{\sqrt{\Delta}}{2a}\,i=- \frac{1}{2}\pm \frac{1}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{1}{2}\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="100" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=- \frac{1}{2}\pm \frac{1}{2} \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+     <answer fraction="0" format="html"> 
+      <text><![CDATA[ <p>\(x_{1,2}=-1\pm 1 \;i\) </p>]]></text> 
+       <feedback format="html">
+ <text></text>
+ </feedback>
+ </answer>
+   </question>
+
+</quiz>
+
+<question type="multichoice">
+    <name>
+      <text>[0.0][0]a=-2,b=-2,c=-1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ <p>Determine a(s) solução(ões) da equação do 2<sup>o</sup> grau</p>
+<p>\[  
+ - 2 x^{2} - 2 x - 1=0. 
+]]></text>
+    </questiontext>
+     <generalfeedback format="html"> 
+      <text><![CDATA[ <p>Para esta equação \(a=-2\), \(b=-2\) e \(c=-1\),</p> 
+<p>\[ 
+\Delta=b^2-4ac=-4 
+ \]</p> 
+Como \(\Delta < 0\), esta equação tem duas raizes complexas:
+<p>\[ 
+x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}=- \frac{1}{2}\pm - \frac{1}{2}\;i.
+ \]</p> 
+]]></text> 
+     </generalfeedback> 
+ <defaultgrade>1.0000000</defaultgrade>
+ <penalty>0.3333333</penalty>
+ <hidden>0</hidden>
+ <idnumber></idnumber>
+ <single>true</single>
+ <shuffleanswers>true</shuffleanswers>
+ <answernumbering>abc</answernumbering>
+ <correctfeedback format="html">
+ <text>Sua resposta está correta.</text>
+ </correctfeedback>
+ <partiallycorrectfeedback format="html">
+  <text>Sua resposta está parcialmente correta.</text>
+ </partiallycorrectfeedback>
+ <incorrectfeedback format="html">
+  <text>Sua resposta está incorreta.</text>
+ </incorrectfeedback>
+ <shownumcorrect/>
+ 
