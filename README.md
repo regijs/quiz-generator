@@ -1,1 +1,1 @@
-# exame-generator
+# quiz-generator
