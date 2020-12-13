@@ -2,7 +2,7 @@
 
 [https://regijs.github.io](https://regijs.github.io)
 
-Template written in Python to generate hundred of questions  depending of parameters for Moodle quiz.
+Template written in Python to generate hundred of questions with feedback depending of parameters for Moodle quiz.
 
 Files:
 
