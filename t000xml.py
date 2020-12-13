@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: regi
+@author: Reginaldo J. Santos
+DMAt-ICEx-UFMG
+regijs@gmail.com
 
-Foi usado assim:
+Example:
 t000xml(range(1,3),range(-2,3),range(-2,3))
 
 """
