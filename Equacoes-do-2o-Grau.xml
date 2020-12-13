@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Padrão para 20202_1000000_DIG_MAT015_TF</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>A categoria padrão para as questões compartilhadas no contexto '20202_1000000_DIG_MAT015_TF'.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Padrão para 20202_1000000_DIG_MAT015_TF/Equações do 2o Grau</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
