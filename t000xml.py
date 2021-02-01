@@ -27,13 +27,13 @@ def t000xml(aa,bb,cc):
     
     fid= open('t-0-0-0.xml','a')
     nq=0
+    x = sy.Symbol('x')
     for a in aa:
         for b in bb:
             for c in cc:
                     if (a>0)and(abs(b)+abs(c)>0):
                         if (math.gcd(math.gcd(a,b),c)==1):
                             nq=nq+1
-                            x = sy.Symbol('x')
                             fid.write('<question type="multichoice">\n')
                             fid.write('    <name>\n')
                             fid.write('      <text>[0.0][0]a='+str(a)+',b='+str(b)+',c='+str(c)+'</text>\n')
